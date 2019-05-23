@@ -13,4 +13,4 @@ Let's make a list (empty surrounding lines required):
   - nested item 2
 
 - item 2
-- item 3
+- I made an additional alteration here
